@@ -17,15 +17,15 @@ def calcular_bhaskara(a, b, c):
         raiz2 = (-b - math.sqrt(delta)) / (2*a)
         return raiz1, raiz2
 
-# Entrada de dados
+
 a = float(input("Digite o valor de a: "))
 b = float(input("Digite o valor de b: "))
 c = float(input("Digite o valor de c: "))
 
-# Chamar a função e obter as raízes
+
 raizes = calcular_bhaskara(a, b, c)
 
-# Exibir as raízes
+
 if raizes is None:
     print("A equação não possui raízes reais.")
 elif len(raizes) == 1:
