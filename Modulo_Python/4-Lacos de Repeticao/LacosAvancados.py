@@ -1,16 +1,24 @@
-# a = 1
-# while a <= 10:
-#    print("Teste")
-#     a = a + 1
+a = 1
+while a <= 10:
+     print("Teste")
+     a = a + 1
 
-# for a in range(5):
-#    print("marcio")
+print("")
+print("")
 
-a = ["Marcio", "Larissa", "Benedito", "André"]
+for a in range(5):
+     print("marcio")
 
-# for a in a:
-#    print(a)
+print("")
+print("")
 
-a = "Descomplica"
+a = ["Mauricio", "Larissa", "Benedito", "Renato"]
+
+print("")
+print("")
+
+#a = "Jose Carlos"
+
 for a in a:
     print(a)
+
