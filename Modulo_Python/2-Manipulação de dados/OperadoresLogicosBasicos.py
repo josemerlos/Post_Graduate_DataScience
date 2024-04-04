@@ -7,7 +7,7 @@
 
 # 1a Cat: Ariméticos
 # # + - * /
-# 2a Cat: Relacionais
+# 2a Cat: Relacionais.
 # # >  <  >=  <=  ==  !=  ===
 # 3a Cat: Lógicos
 # !
